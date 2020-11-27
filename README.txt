@@ -1,4 +1,4 @@
-﻿Web-Dev Battle: Expense Manager Project Solution BY RITU JALAN
+﻿Web-Dev Battle: Expense Manager Project Solution BY SHASHWAT KUMAR
 
 DESCRIPTION: This is the solution to the Expense Manager Site
 
@@ -75,7 +75,7 @@ ____________________________________________SETUP_______________________________
 
 
 LICENSE AND COPYRIGHT: All the images used for this project are representational images.
-I(Ritu Jalan) holds no copyright over these images.
+I(Shashwat Kumar) holds no copyright over these images.
 
 
 
